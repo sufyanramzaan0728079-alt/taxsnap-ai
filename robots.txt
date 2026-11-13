@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taxsnap-ai-one.vercel.app/sitemap.xml
